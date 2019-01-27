@@ -1,0 +1,54 @@
+html,body {
+		  height: 100%;
+		  width: 100%;
+        }
+ul li
+{
+    list-style:none;
+    text-decoration: none;
+    
+}
+a:hover
+{
+    background: rgb(0, 26, 255);
+}
+#Header
+{
+    background-color: rgb(42, 147, 165);
+    height: 20%;
+}
+#Menu
+{
+background-color: rgb(247, 152, 29);
+float: left;
+width: 150px;
+font-size: 20px;
+height: 75%;
+
+}
+#Content
+{
+    height: 72%;
+    margin-left: 160px;
+    background-color: white;
+}
+#Footer
+{
+    height: 3%;
+    background-color: rgb(150, 153, 161);
+}
+#targetForm
+{
+    background-color: aqua;
+    border-radius: 5px;
+    padding: 10px;
+    width: 400px;
+}
+#sourceForm
+{
+    background-color: yellow;
+    border-radius: 5px;
+    padding: 10px;
+    width: 400px;
+ 
+}
